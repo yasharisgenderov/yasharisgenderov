@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Yashar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=yasharisgendenderov&show_icons=true&hide_border=true" />
+  <img align="left" alt="Yashar's GitHub Stats" src="https://github-readme-stats.yasharisgenderov.vercel.app/api?username=yasharisgendenderov&show_icons=true&hide_border=true" />
 
 </details>
 
