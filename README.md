@@ -30,9 +30,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Yashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasharisgenderov)](https://github.com/yasharisgenderov/github-readme-stats)
-
-  <img align="left" alt="Yashar's GitHub Stats" src="https://github-readme-stats.yasharisgenderov.vercel.app/api?username=yasharisgendenderov&show_icons=true&hide_border=true" />
+  <img align="left" alt="Yashar's GitHub Stats" src="https://github-readme-stats.yasharisgenderov.vercel.app/api?username=yasharisgenderov&show_icons=true&hide_border=true" />
 
 </details>
 
