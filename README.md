@@ -1,4 +1,4 @@
-### Hello World, I'm Yashar 👋 
+### Hello World, I'm Yashar 👋
 
 ## I'm a Junior Software Engineer !
 
@@ -23,14 +23,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 <br />
 <br />
 <br />
-
+---
   <img align="left" alt="Yashar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yasharisgenderov&show_icons=true&hide_border=true" />
-
-
-
 
 [linkedin]: https://www.linkedin.com/in/yashar-isgenderov-805857226/
