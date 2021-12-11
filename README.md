@@ -27,6 +27,6 @@
 <br />
 <br />
 
-  [![Yashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasharisgenderov)](https://github.com/anuraghazra/github-readme-stats)
+  [![Yashar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasharisgenderov&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/yashar-isgenderov-805857226/
