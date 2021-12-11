@@ -18,7 +18,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://www.pngitem.com/pimgs/m/184-1843023_svg-mongodb-logo-png-transparent-png.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://www.w3schools.in/wp-content/uploads/mongodb-logo.png?ezimgfmt=rs:0x0/rscb6/ng:webp/ngcb6" />
 <img align="left" alt="Git" width="26px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
